@@ -1,0 +1,8 @@
+{
+  "name": "zero-ai",
+  "version": "2.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Zero AI — a Netlify-hosted AI assistant by Salamon Aaliester",
+  "engines": { "node": ">=18" }
+}
